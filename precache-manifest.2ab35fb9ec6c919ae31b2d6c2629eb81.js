@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "729e9e99d90193963309",
+    "revision": "dc5853327fac673af708",
     "url": "/kitchenapp/static/css/main.68d7dd6d.chunk.css"
   },
   {
-    "revision": "729e9e99d90193963309",
-    "url": "/kitchenapp/static/js/main.729e9e99.chunk.js"
+    "revision": "dc5853327fac673af708",
+    "url": "/kitchenapp/static/js/main.dc585332.chunk.js"
   },
   {
     "revision": "19c86e2c335ff8353510",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/kitchenapp/static/media/tiger.76163ac7.svg"
   },
   {
-    "revision": "750b5758c23d047ed24db7f77e3ab874",
+    "revision": "d53adfce05d01f8b10c97c52d0ff3fc5",
     "url": "/kitchenapp/index.html"
   }
 ];
