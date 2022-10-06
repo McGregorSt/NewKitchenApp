@@ -1,7 +1,7 @@
 {
   "main.css": "/kitchenapp/static/css/main.68d7dd6d.chunk.css",
-  "main.js": "/kitchenapp/static/js/main.4dc8e2c4.chunk.js",
-  "main.js.map": "/kitchenapp/static/js/main.4dc8e2c4.chunk.js.map",
+  "main.js": "/kitchenapp/static/js/main.07e71c4c.chunk.js",
+  "main.js.map": "/kitchenapp/static/js/main.07e71c4c.chunk.js.map",
   "static/js/1.19c86e2c.chunk.js": "/kitchenapp/static/js/1.19c86e2c.chunk.js",
   "static/js/1.19c86e2c.chunk.js.map": "/kitchenapp/static/js/1.19c86e2c.chunk.js.map",
   "static/js/2.6e39fa62.chunk.js": "/kitchenapp/static/js/2.6e39fa62.chunk.js",
@@ -28,6 +28,6 @@
   "static/media/tiger.svg": "/kitchenapp/static/media/tiger.76163ac7.svg",
   "static/css/main.68d7dd6d.chunk.css.map": "/kitchenapp/static/css/main.68d7dd6d.chunk.css.map",
   "index.html": "/kitchenapp/index.html",
-  "precache-manifest.f61430d1e4358c12ed7c43c27555345b.js": "/kitchenapp/precache-manifest.f61430d1e4358c12ed7c43c27555345b.js",
+  "precache-manifest.a801c384310c682e828f8af8d6283dba.js": "/kitchenapp/precache-manifest.a801c384310c682e828f8af8d6283dba.js",
   "service-worker.js": "/kitchenapp/service-worker.js"
 }
