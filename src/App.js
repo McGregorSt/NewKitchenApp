@@ -19,7 +19,7 @@ function App() {
   return (
     <Provider store={store}>
       {/* <BrowserRouter> */}
-      <HashRouter>
+      {/* <HashRouter> */}
         <Switch>
           <Route
             exact
@@ -35,7 +35,7 @@ function App() {
           />
           {/* <Route exact path="/login" component={LoginPage} /> */}
         </Switch>
-      </HashRouter>
+      {/* </HashRouter> */}
       {/* </BrowserRouter> */}
     </Provider>
   )
