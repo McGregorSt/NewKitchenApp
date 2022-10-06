@@ -12,7 +12,7 @@ import { store } from "./store/store";
 function App() {
   return (
     <Provider store={store}>
-      <BrowserRouter>
+      {/* <BrowserRouter> */}
         <Switch>
           <Route exact path="/" render={() => <Redirect to="/orders" />} />
           <Route exact path="/new-order" component={NewOrder} />
@@ -20,7 +20,7 @@ function App() {
           <Route exact path="/product-state" component={ProductsMgmt} />
           <Route exact path="/login" component={LoginPage} />
         </Switch>
-      </BrowserRouter>
+      {/* </BrowserRouter> */}
     </Provider>
   );
 }
