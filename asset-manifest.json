@@ -1,11 +1,11 @@
 {
   "main.css": "/kitchenapp/static/css/main.68d7dd6d.chunk.css",
-  "main.js": "/kitchenapp/static/js/main.0066c476.chunk.js",
-  "main.js.map": "/kitchenapp/static/js/main.0066c476.chunk.js.map",
+  "main.js": "/kitchenapp/static/js/main.729e9e99.chunk.js",
+  "main.js.map": "/kitchenapp/static/js/main.729e9e99.chunk.js.map",
   "static/js/1.19c86e2c.chunk.js": "/kitchenapp/static/js/1.19c86e2c.chunk.js",
   "static/js/1.19c86e2c.chunk.js.map": "/kitchenapp/static/js/1.19c86e2c.chunk.js.map",
-  "static/js/2.ec3ea915.chunk.js": "/kitchenapp/static/js/2.ec3ea915.chunk.js",
-  "static/js/2.ec3ea915.chunk.js.map": "/kitchenapp/static/js/2.ec3ea915.chunk.js.map",
+  "static/js/2.cd6d96f4.chunk.js": "/kitchenapp/static/js/2.cd6d96f4.chunk.js",
+  "static/js/2.cd6d96f4.chunk.js.map": "/kitchenapp/static/js/2.cd6d96f4.chunk.js.map",
   "runtime~main.js": "/kitchenapp/static/js/runtime~main.3b9e346d.js",
   "runtime~main.js.map": "/kitchenapp/static/js/runtime~main.3b9e346d.js.map",
   "static/media/check-round.svg": "/kitchenapp/static/media/check-round.25ce8610.svg",
@@ -28,6 +28,6 @@
   "static/media/tiger.svg": "/kitchenapp/static/media/tiger.76163ac7.svg",
   "static/css/main.68d7dd6d.chunk.css.map": "/kitchenapp/static/css/main.68d7dd6d.chunk.css.map",
   "index.html": "/kitchenapp/index.html",
-  "precache-manifest.e733af6c3023d90e81a87d2638ddb984.js": "/kitchenapp/precache-manifest.e733af6c3023d90e81a87d2638ddb984.js",
+  "precache-manifest.df3f2313818385d0b5412ef98748578b.js": "/kitchenapp/precache-manifest.df3f2313818385d0b5412ef98748578b.js",
   "service-worker.js": "/kitchenapp/service-worker.js"
 }
