@@ -14,10 +14,10 @@ function App() {
     <Provider store={store}>
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" render={() => <Redirect to="/orders" />} />
-          <Route exact path="/new-order" component={NewOrder} />
-          <Route exact path="/orders" component={Orders} />
-          <Route exact path="/product-state" component={ProductsMgmt} />
+          <Route exact path="/kitchenapp/" render={() => <Redirect to="/kitchenapp/orders" />} />
+          <Route exact path="/kitchenapp/new-order" component={NewOrder} />
+          <Route exact path="/kitchenapp/orders" component={Orders} />
+          <Route exact path="/kitchenapp/product-state" component={ProductsMgmt} />
           {/* <Route exact path="/login" component={LoginPage} /> */}
         </Switch>
       </BrowserRouter>
