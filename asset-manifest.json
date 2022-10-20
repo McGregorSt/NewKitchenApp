@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mcgregorst/newkitchenapp/static/css/main.e6161af3.css",
-    "main.js": "/mcgregorst/newkitchenapp/static/js/main.c1410cea.js",
+    "main.js": "/mcgregorst/newkitchenapp/static/js/main.b635ed63.js",
     "static/media/dropdown.png": "/mcgregorst/newkitchenapp/static/media/dropdown.d435c9afd0042ef26838.png",
     "static/media/lion.svg": "/mcgregorst/newkitchenapp/static/media/lion.02a499d95b45ea7c93d83e59111d0967.svg",
     "static/media/chuck.svg": "/mcgregorst/newkitchenapp/static/media/chuck.390a7e47a080083ce65aadf8eb1be717.svg",
@@ -21,10 +21,10 @@
     "static/media/remove.svg": "/mcgregorst/newkitchenapp/static/media/remove.ff4989146d05e60468b5cff69cb7fd09.svg",
     "static/media/menu-white.svg": "/mcgregorst/newkitchenapp/static/media/menu-white.71abf06623d275caa262f8581f3dd220.svg",
     "main.e6161af3.css.map": "/mcgregorst/newkitchenapp/static/css/main.e6161af3.css.map",
-    "main.c1410cea.js.map": "/mcgregorst/newkitchenapp/static/js/main.c1410cea.js.map"
+    "main.b635ed63.js.map": "/mcgregorst/newkitchenapp/static/js/main.b635ed63.js.map"
   },
   "entrypoints": [
     "static/css/main.e6161af3.css",
-    "static/js/main.c1410cea.js"
+    "static/js/main.b635ed63.js"
   ]
 }
