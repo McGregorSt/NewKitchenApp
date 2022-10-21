@@ -75,21 +75,21 @@ const Navbar = () => {
       <StyledWrapper>
         <StyledToolbar onClick={() => dispatch(showLeftSidebar())} />
         <StyledItems>
-          <StyledNavItem as={NavLink} to="/kitchenapp/new-order">
+          <StyledNavItem as={NavLink} to="/new-order">
             <NavItem
               itemName="new order"
               itemIcon={orders}
               activeclass="active"
             />
           </StyledNavItem>
-          <StyledNavItem exact as={NavLink} to="/kitchenapp/orders">
+          <StyledNavItem exact as={NavLink} to="/orders">
             <NavItem
               itemName="orders"
               itemIcon={checklist}
               activeclass="active"
             />
           </StyledNavItem>
-          <StyledNavItem as={NavLink} to="/kitchenapp/product-state">
+          <StyledNavItem as={NavLink} to="/product-state">
             <NavItem
               itemName="products management"
               itemIcon={management}

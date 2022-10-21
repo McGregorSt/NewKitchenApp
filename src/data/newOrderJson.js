@@ -1,4 +1,4 @@
-import { tiger } from "../media/assets";
+import { lion } from "../media/assets";
 import { chuck } from "../media/assets";
 
 export const newOrder = {
@@ -513,9 +513,9 @@ export const newOrder = {
   ingredientsToReserve: [],
   profiles: [
     {
-      profileName: 'tiger',
+      profileName: 'lion',
       isActive: false,
-      url: tiger
+      url: lion
     },
     {
       profileName: 'chuck',

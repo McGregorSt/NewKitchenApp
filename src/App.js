@@ -14,31 +14,16 @@ import {
 } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import { store } from './store/store'
+import { Routes } from 'react-router'
 
 function App() {
   return (
-    <Provider store={store}>
-      {/* <BrowserRouter> */}
-      {/* <HashRouter> */}
-      {/* <Switch> */}
-        <Route
-          exact
-          path="/kitchenapp"
-          render={() => <Redirect to="/kitchenapp/orders" />}
-        />
-        <Route exact path="/kitchenapp/new-order" component={NewOrder} />
-        <Route exact path="/kitchenapp/orders" component={Orders} />
-        <Route
-          exact
-          path="/kitchenapp/product-state"
-          component={ProductsMgmt}
-        />
-        <Route exact path="/kitchenapp/login" component={LoginPage} />
-      {/* </Switch> */}
-
-      {/* </HashRouter> */}
-      {/* </BrowserRouter> */}
-    </Provider>
+      <Switch>
+          <Route exact path="/" ><Orders /></Route>
+          <Route exact path="/new-order" ><NewOrder /></Route>
+          <Route exact path="/orders" component={Orders} />
+          <Route exact path="/product-state" component={ProductsMgmt} />
+      </Switch>
   )
 }
 
