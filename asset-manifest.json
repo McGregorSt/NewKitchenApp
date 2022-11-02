@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newkitchenapp/static/css/main.e6161af3.css",
-    "main.js": "/newkitchenapp/static/js/main.f7fcb94b.js",
+    "main.js": "/newkitchenapp/static/js/main.ce7fe8b5.js",
     "static/media/dropdown.png": "/newkitchenapp/static/media/dropdown.d435c9afd0042ef26838.png",
     "static/media/lion.svg": "/newkitchenapp/static/media/lion.02a499d95b45ea7c93d83e59111d0967.svg",
     "static/media/chuck.svg": "/newkitchenapp/static/media/chuck.390a7e47a080083ce65aadf8eb1be717.svg",
@@ -21,10 +21,10 @@
     "static/media/remove.svg": "/newkitchenapp/static/media/remove.ff4989146d05e60468b5cff69cb7fd09.svg",
     "static/media/menu-white.svg": "/newkitchenapp/static/media/menu-white.71abf06623d275caa262f8581f3dd220.svg",
     "main.e6161af3.css.map": "/newkitchenapp/static/css/main.e6161af3.css.map",
-    "main.f7fcb94b.js.map": "/newkitchenapp/static/js/main.f7fcb94b.js.map"
+    "main.ce7fe8b5.js.map": "/newkitchenapp/static/js/main.ce7fe8b5.js.map"
   },
   "entrypoints": [
     "static/css/main.e6161af3.css",
-    "static/js/main.f7fcb94b.js"
+    "static/js/main.ce7fe8b5.js"
   ]
 }
