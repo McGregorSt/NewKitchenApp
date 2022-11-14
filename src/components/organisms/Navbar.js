@@ -4,7 +4,7 @@ import menu from "../../assets/menu-white.svg";
 import orders from "../../assets/orders.svg";
 import checklist from "../../assets/checklist.svg";
 import management from "../../assets/business-management.svg";
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { changeCurrentView, showLeftSidebar } from "../../_actions/mainActions";
 import NavItem from "../molecules/NavItem";
@@ -96,9 +96,6 @@ const Navbar = () => {
               activeclass="active"
             />
           </StyledNavItem>
-          {/* <StyledNavItem as={NavLink} to="/login" activeclass="active">
-            <NavItem itemName="logout" itemIcon={orders} />
-          </StyledNavItem> */}
         </StyledItems>
       </StyledWrapper>
     </div>
